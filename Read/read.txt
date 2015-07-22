@@ -1,0 +1,7 @@
+1 . Import database tktbooking.sql 
+2. I have used following congfiguration to connect ot server
+	host = "localhost"
+	username = root
+	password = 1234
+	
+	You can change as per your requiremnt in config file only.
